@@ -1,1 +1,1 @@
-# github-essentialsn## DescriptionnnGitHub for dummies
+# DescriptionnnGitHub for dummies
